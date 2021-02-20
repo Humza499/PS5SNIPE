@@ -38,7 +38,7 @@ if __name__ == "__main__":
     confirmOrder = '/html/body/div[1]/div/div[1]/div/div[1]/div[3]/div/div/div[2]/div[1]/div[2]/div/div/div[2]/div/form/div/button'
 
     myFirstName = 'Phillip'
-    myLastName = 'Nalwalker'
+    myLastName = 'urmum'
     myEmail = ''
     myAddress = ''
     myPhone = ''
